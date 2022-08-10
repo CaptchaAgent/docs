@@ -10,4 +10,4 @@
 - All Rights Reserved.
 
 [GitHub](https://github.com/captcha-challenger)
-[Get Started](#get-started)
+[Get Started](#captcha-challenger)
