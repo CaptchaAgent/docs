@@ -1,4 +1,4 @@
 <!-- docify side bar -->
 
-- [Home](/docs/)
-- [hCaptcha](/docs/hcaptcha/)
+- [Home](/)
+- [hCaptcha](hcaptcha/)

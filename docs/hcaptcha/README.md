@@ -1,6 +1,6 @@
 # hCaptcha Challenger
 
-The [hCaptcha Challenger](https://github.com/QIN2DIM/hcaptcha-challenger) is a Python library for solving hCaptcha.
+The [hCaptcha Challenger](https://github.com/QIN2DIM/hcaptcha-challenger) is 🥂 Gracefully face hCaptcha challenge with YOLOv6(ONNX) embedded solution.
 
 ## Supported Languages
 
@@ -14,8 +14,11 @@ The [hCaptcha Challenger](https://github.com/QIN2DIM/hcaptcha-challenger) is a P
 ## APIs
 
 HOST: `http://captcha-challenger.herokuapp.com`
+
 Method: `POST`
+
 API: `/api/hcaptcha/`
+
 Data:
 
 | Key         | Type     | Description                                                              |
@@ -31,6 +34,8 @@ File:
 | `img` | `file` | The challenge image file |
 
 ## Examples
+
+### Python
 
 ```python
 import os
