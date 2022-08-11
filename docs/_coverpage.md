@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://captcha-challenger.github.io/">
+  <img src="assets/magic_staff.svg">
   </a>
 </p>
 
 <middle>Captcha Challenger</middle>
 
-- Captcha Challenger Docs Since 2022.6
+- Captcha Challenger Since 2022.8.10
 
 - All Rights Reserved.
 
