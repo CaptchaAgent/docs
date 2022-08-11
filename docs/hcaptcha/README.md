@@ -40,8 +40,6 @@ File:
 ```python
 import os
 import requests
-import cv2
-import urllib
 
 if __name__ == "__main__":
     challenge = "image_label_binary"
