@@ -33,6 +33,21 @@ File:
 | ----- | ------ | ------------------------ |
 | `img` | `file` | The challenge image file |
 
+Response: `JSON`
+
+| Key       | Type     | Description                                                                    |
+| --------- | -------- | ------------------------------------------------------------------------------ |
+| `result`  | `list`   | The result, e.g. `[true, false, true, false, false, true, false, false, true]` |
+| `message` | `string` | The message, e.g. `error information`                                          |
+
+Status Code:
+
+| Code  | Description                                                                          |
+| ----- | ------------------------------------------------------------------------------------ |
+| `200` | Success                                                                              |
+| `400` | Bad Request, some parameters are missing or invalid                                  |
+| `500` | Server Error, unexpected error, please open an issue or leave a feedback in comments |
+
 ## Examples
 
 ### Python
